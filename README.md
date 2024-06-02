@@ -30,5 +30,8 @@ Radio Modbus Master Simulator is also very straightforward and does not require 
 [Modbus Master Simulator](https://en.radzio.dxp.pl/modbus-master-simulator/)
 
 ## Breadboarding <a name="breadboard">
-Now that we have all the necessary software, it is time to connect everything to the breadboard and create our switch to turn an LED on and Off. Here is a diagram of how I connected the LED to the Raspberry Pi.  
-![circuit](https://github.com/IzharSalvanaSyed/Raspberry-Pi-OpenPLC-with-Modbus/assets/156041933/cca5c8a6-d061-4761-975d-6f986cfde367) ![93cuu016](https://github.com/IzharSalvanaSyed/Raspberry-Pi-OpenPLC-with-Modbus/assets/156041933/c70b7871-b893-4320-91ec-0fe224ca756e)
+Now that we have all the necessary software, it is time to connect everything to the breadboard and create our switch to turn an LED on and Off. Below is a diagram of how I connected the LED to the Raspberry Pi.  
+![circuit](https://github.com/IzharSalvanaSyed/Raspberry-Pi-OpenPLC-with-Modbus/assets/156041933/cca5c8a6-d061-4761-975d-6f986cfde367)
+
+Here is a Pinout of the inputs and outputs we will use for the OpenPLC editor. For the input side, push button 1 is connected to "%IX0.0," and push button 2 is connected to "%IX0.0." For the output side, the LED is connected to "QX0.0."  
+![93cuu016](https://github.com/IzharSalvanaSyed/Raspberry-Pi-OpenPLC-with-Modbus/assets/156041933/c70b7871-b893-4320-91ec-0fe224ca756e)
