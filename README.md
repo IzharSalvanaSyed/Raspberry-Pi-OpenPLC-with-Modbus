@@ -42,5 +42,9 @@ Now that we have our breadboard, let's create the program logic that OpenPLC wil
 Ladder logic was one of the first IEC 61131-3 programming languages. It was developed as a graphic representation for relay logic hardware circuit diagrams. The term "ladder" comes from the fact that the logic looks a little like a ladder, with a vertical power rail on the left side and a vertical ground rail on the right side. Then, a series of horizontal lines or "rungs" are wiring hardware components between the rails.
 
 For my Ladder Logic I followed this video.  
-[OpenPLC on Raspberry Pi with Modbus](https://youtu.be/iC5s4CEiOB4?si=wJh1vriMxQ14dKNB))  
+[OpenPLC on Raspberry Pi with Modbus](https://youtu.be/iC5s4CEiOB4?si=wJh1vriMxQ14dKNB)  
 ![Screenshot 2024-06-01 193350](https://github.com/IzharSalvanaSyed/Raspberry-Pi-OpenPLC-with-Modbus/assets/156041933/ca09e21a-b0d3-441e-b57d-4b70c430e9ea)
+
+You can follow the rest of the video on how to send the OpenPLC program we created to our Raspberry Pi.  
+https://github.com/IzharSalvanaSyed/Raspberry-Pi-OpenPLC-with-Modbus/assets/156041933/756bfb64-7f62-4c03-b0ca-c8200366e39b
+
