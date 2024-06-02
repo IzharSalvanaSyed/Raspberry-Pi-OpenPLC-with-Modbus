@@ -43,3 +43,4 @@ Ladder logic was one of the first IEC 61131-3 programming languages. It was deve
 
 For my Ladder Logic I followed this video.  
 [OpenPLC on Raspberry Pi with Modbus](https://youtu.be/iC5s4CEiOB4?si=wJh1vriMxQ14dKNB))  
+![Screenshot 2024-06-01 193350](https://github.com/IzharSalvanaSyed/Raspberry-Pi-OpenPLC-with-Modbus/assets/156041933/ca09e21a-b0d3-441e-b57d-4b70c430e9ea)
