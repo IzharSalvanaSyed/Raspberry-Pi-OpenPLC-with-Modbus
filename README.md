@@ -47,7 +47,7 @@ For my Ladder Logic I followed this video.
 
 You can follow the rest of the video above to learn how to send the OpenPLC program we created to our Raspberry Pi, start the program, and see it in action. The video also shows you how to use Modbus to control the Raspberry Pi PLC.
 
-Video of me running the Ladder Logic program for our 2-push button LED.
+Video of me running the Ladder Logic program for our 2-push button LED.  
 https://github.com/IzharSalvanaSyed/Raspberry-Pi-OpenPLC-with-Modbus/assets/156041933/756bfb64-7f62-4c03-b0ca-c8200366e39b
 
 Video of me controlling the Ladder Logic program through Modbus.
